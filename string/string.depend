@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1502969688 source:c:\users\cyg_server\documents\c\string\input.c
+	"gstr.h"
+	<stdio.h>
+	<string.h>
+
+1502969475 c:\users\cyg_server\documents\c\string\gstr.h
+
+1502970040 source:c:\users\cyg_server\documents\c\string\display.c
+	"gstr.h"
+	<stdio.h>
+	<string.h>
+
